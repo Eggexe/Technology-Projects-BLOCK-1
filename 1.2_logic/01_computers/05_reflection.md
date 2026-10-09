@@ -5,3 +5,8 @@ Consider:
 * What components were new to you?
 * What challenges did you face?
 * What did you learn about embedded systems?
+
+How much is actually packed into a very small board<br>
+Familiar with it already<br>
+None<br>
+The actual extent of their versatility makes them useful in a range of applications<br>
